@@ -6,6 +6,7 @@
     "configurations": [
         
         {
+            "runtimeExecutable": "/home/eric/.nvm/versions/node/v8.10.0/bin/node",
             "type": "node",
             "request": "launch",
             "name": "启动程序",
